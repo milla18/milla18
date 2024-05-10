@@ -4,7 +4,7 @@ Tenho 22 anos
 
 Estou cursando Engenharia da Computação FSA
 
-Estudando Front-end Vai na web 
+Estudando Front-end TripleTen
 
 [![card](https://github-readme-stats.vercel.app/api?username=milla18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
