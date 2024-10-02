@@ -1,10 +1,20 @@
-### Ola,me chamo Camila  👋
+### Ola,me chamo Camila  👋 🇧🇷
 
 Tenho 22 anos 
 
-Estou cursando Engenharia da Computação FSA
+Estou cursando Engenharia da Computação CUFSA
 
-Estudando Front-end TripleTen
+Bootcamp TripleTen: desenvolvedor web
+
+
+
+### Hi, I'm Camila 👋 🇺🇸 
+
+I'm 22 years old
+
+I study Computer Engeneering at CUFSA
+
+Bootcamp TripleTen: web developer
 
 [![card](https://github-readme-stats.vercel.app/api?username=milla18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
