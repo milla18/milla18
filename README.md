@@ -1,6 +1,6 @@
 ### Ola,me chamo Camila  👋 🇧🇷
 
-Tenho 22 anos 
+Tenho 23 anos 
 
 Estou cursando Engenharia da Computação CUFSA
 
@@ -10,7 +10,7 @@ Bootcamp TripleTen: desenvolvedor web
 
 ### Hi, I'm Camila 👋 🇺🇸 
 
-I'm 22 years old
+I'm 23 years old
 
 I study Computer Engeneering at CUFSA
 
