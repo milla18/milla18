@@ -21,6 +21,8 @@ Bootcamp TripleTen: web developer
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 <!--
 **milla18/milla18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
