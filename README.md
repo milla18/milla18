@@ -19,9 +19,8 @@ Bootcamp TripleTen: web developer
 [![card](https://github-readme-stats.vercel.app/api?username=milla18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-          
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
           
 
