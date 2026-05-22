@@ -3,7 +3,7 @@
 Meu nome é **Camila Cavalcante**, tenho **24 anos** e sou estudante de **Engenharia da Computação na FSA**.  
 Atualmente, curso o **Bootcamp da TripleTen**, onde desenvolvo projetos práticos utilizando **HTML, CSS, JavaScript, Figma, Git e GitHub**.
 
-Ainda não possuo experiência profissional na área, mas venho aprendendo e evoluindo por meio dos projetos realizados durante o bootcamp.  
+Estou estagiando na área e venho aprendendo e evoluindo por meio dos projetos pessoais.
 Tenho um perfil curioso, disciplinado e focado em evolução constante. Utilizo este GitHub para compartilhar meus projetos, acompanhar meu progresso e consolidar meu aprendizado em **desenvolvimento front-end**.
 
 ---
